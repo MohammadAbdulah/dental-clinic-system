@@ -17,7 +17,7 @@ public class EmailService implements ServiceEE {
 			properties.put("mail.smtp.port", "587");
 
 			String acc = "mohansary98@gmail.com";
-			String pass = "mohammadalansary";
+			String pass = "xxxxxxxxxxxxxxxxx";
 
 			new Thread(new Runnable() {
 				

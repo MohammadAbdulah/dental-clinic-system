@@ -1,9 +1,10 @@
 package application.gui;
 
-import java.net.URL;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.layout.Pane;
+
+import java.net.URL;
 
 public class Fxmloader {
 	@FXML
