@@ -1,0 +1,37 @@
+.menu-button{
+	-fx-background-color: transparent;
+}
+
+.menu-button:hover {
+    -fx-background-color: #FFBD7D;
+}
+
+.settings-button{
+	-fx-background-color: transparent;
+}
+
+.list-view {
+    -fx-background-color: transparent;
+}
+
+.list-cell {
+    -fx-background-color: transparent;
+}
+
+.list-view .scroll-bar:vertical {
+    -fx-scale-x: 0;
+}
+
+.list-view .scroll-bar:horizontal {
+    -fx-scale-x: 0;
+}
+
+.combo-box .combo-box-popup .list-view, .combo-box .combo-box-popup .list-cell {
+    -fx-background-color: white ;
+    -fx-font-family: "Arial" ;
+    -fx-alignment: center;
+}
+.combo-box .combo-box-popup .list-cell:hover {
+    -fx-background-color: gray ;
+    -fx-alignment: center;
+}
